@@ -13,7 +13,7 @@
 
 - 📫 You can reach me **renato.mariano@outlook.com**
 
-- ⚡ Fun fact: I love playing volleyball.
+- 🏐 I love playing volleyball.
 
 <h1></h1>
 

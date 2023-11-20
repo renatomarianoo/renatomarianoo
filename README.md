@@ -1,9 +1,9 @@
 <h1>Hi there👋, I'm Renato Mariano</h1>
 <h3>A passionate Water Engineer and Data Scientist from Brazil</h3>
 
-- 📖 Data Science Student **at Turing College**
+- 📖 Data Science Student **at Turing College**.
   
-- 🔭 Currently working on **Deep Learning Projects**
+- 🔭 Currently working on **Deep Learning Projects**.
 
 - 🌱 Love for science and personal growth.
 

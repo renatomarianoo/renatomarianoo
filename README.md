@@ -7,11 +7,11 @@
 
 - 🌱 Love for science and personal growth.
 
-- 👨‍💻 All of my projects are available at [https:/](https://github.com/renatomarianoo?tab=repositories)
+- 👨‍💻 All of my projects are available on the [repository](https://github.com/renatomarianoo?tab=repositories) section.
 
-- 📄 Know about my experiences **https://renatomarianoo.github.io/portfolio/**
+- 📄 Know about my experiences on my [portfolio](https://renatomarianoo.github.io/portfolio/).
 
-- 📫 You can reach me renato.mariano@outlook.com
+- 📫 You can reach at my [email](renato.mariano@outlook.com).
 
 - 🏐 I love playing volleyball.
 

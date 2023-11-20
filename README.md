@@ -7,7 +7,7 @@
 
 - 🌱 Love for science and personal growth.
 
-- 👨‍💻 All of my projects are available at [https:/](https:/)
+- 👨‍💻 All of my projects are available at [https:/]([https:/](https://github.com/renatomarianoo?tab=repositories))
 
 - 📄 Know about my experiences **https://renatomarianoo.github.io/portfolio/**
 

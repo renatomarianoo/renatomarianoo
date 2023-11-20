@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https:/](https:/)
 
-- 📄 Know about my experiences [https:/](https:/)
+- 📄 Know about my experiences **https://renatomarianoo.github.io/portfolio/**
 
-- 📫 You can reach me **renato.mariano@outlook.com**
+- 📫 You can reach me renato.mariano@outlook.com
 
 - 🏐 I love playing volleyball.
 

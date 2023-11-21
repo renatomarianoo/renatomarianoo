@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences on my [portfolio](https://renatomarianoo.github.io/portfolio/).
 
-- 📫 You can reach at my [email](renato.mariano@outlook.com).
+- 📫 You can reach me at my [email](renato.mariano@outlook.com).
 
 - 🏐 I love playing volleyball.
 
